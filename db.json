@@ -1,0 +1,29 @@
+{
+    "statusCode": 200,
+    "result": [
+        {
+            "_id": {
+                "month": 5
+            },
+            "count": 1
+        },
+        {
+            "_id": {
+                "month": 7
+            },
+            "count": 1
+        },
+        {
+            "_id": {
+                "month": 6
+            },
+            "count": 1
+        },
+        {
+            "_id": {
+                "month": 8
+            },
+            "count": 4
+        }
+    ]
+}
